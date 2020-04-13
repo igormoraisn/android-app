@@ -19,7 +19,7 @@
         android:id="@+id/pressButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Press here"
+        android:text="Click here"
         tools:layout_editor_absoluteX="153dp"
         tools:layout_editor_absoluteY="392dp" />
 
